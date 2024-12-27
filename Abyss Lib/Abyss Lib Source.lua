@@ -493,9 +493,7 @@ do
         Library.Theme.Asuka = Utility.AddImage("Abyss/Assets/UI/Asuka.png", "https://i.imgur.com/3hwztNM.png")
         --
         Window.SetText(1, "Checking Assets")
-        --
-        Window.SetText(1, "Checking Input")
-        Utility.CLCheck(Window)
+        
         --
         Window.SetText(2, "Finished")
         --
