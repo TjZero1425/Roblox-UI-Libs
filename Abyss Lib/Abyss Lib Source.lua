@@ -494,8 +494,6 @@ do
         --
         Window.SetText(1, "Checking Assets")
         --
-        Window.SetText(1, "Checking Input")
-        Utility.CLCheck(Window)
         --
         Window.SetText(2, "Finished")
         --
